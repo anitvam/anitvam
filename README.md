@@ -1,7 +1,7 @@
-### Hi there, I'm Martina, a Computer Science PhD student. 
+Hi there, I'm Martina, a Computer Science PhD student. 
 Curriculum Vitae [here](https://github.com/anitvam/curriculum-vitae/releases/latest/download/main.pdf).
 
-## Some stats
+---
 
 <div align="center">
 
