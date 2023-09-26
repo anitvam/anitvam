@@ -1,7 +1,7 @@
 Hi there, I'm Martina, a Computer Science PhD student. 
 Curriculum Vitae [here](https://github.com/anitvam/curriculum-vitae/releases/latest/download/main.pdf).
 
-![Profile Views](https://komarev.com/ghpvc/?username=anitvam&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=anitvam&color=blueviolet&style=for-the-badge)
 
 ---
 
