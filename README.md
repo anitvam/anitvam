@@ -9,11 +9,12 @@ Curriculum Vitae [here](https://github.com/anitvam/curriculum-vitae/releases/lat
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anitvam&theme=nord_dark)
 
- [![anitvam's GitHub Trophy](https://github-profile-trophy.vercel.app/?username=anitvam&theme=onestar&row=2&column=3&rank=-C)](https://github.com/ryo-ma/github-profile-trophy)
+ [![anitvam's GitHub Trophy](https://github-profile-trophy.vercel.app/?username=anitvam&theme=nord&row=2&column=6&rank=-C)](https://github.com/ryo-ma/github-profile-trophy)
 
-![anitvam's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anitvam&theme=merko)
+![anitvam's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anitvam&theme=onedark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anitvam&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anitvam&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
