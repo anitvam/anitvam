@@ -1,5 +1,5 @@
 Hi there, I'm Martina, a Computer Science PhD student.
-My interests vary from automation, virtualization and cloud computing to domain-specific languages.
+My interests vary from automation, virtualisation and cloud computing to domain-specific languages.
 
 If you're interested, my Curriculum Vitae is [here](https://github.com/anitvam/curriculum-vitae/releases/latest/download/main.pdf).
 
